@@ -1,0 +1,1 @@
+insert into user (id, dob, email, first_name, gender, last_name, mobile_no) values (null, null, 'johndoe@yahoo.com', 'John', null, 'Doe', '081809712728');
